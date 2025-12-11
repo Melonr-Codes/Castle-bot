@@ -1,5 +1,3 @@
----
-README.md
 Instale dependências:
 ```
 npm install
@@ -11,4 +9,3 @@ npm start
 ```
 
 Configure o arquivo `.env` com seu token.
----
