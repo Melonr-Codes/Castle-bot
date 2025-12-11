@@ -1,0 +1,21 @@
+# Dependências
+/node_modules
+
+# Arquivos de Configuração Sensíveis e Logs
+.env
+npm-debug.log
+.DS_Store # (Para usuários de macOS)
+
+# Arquivos de Sessão do Bot
+# Se você tiver algum arquivo local onde o bot salva sessões ou dados temporários
+coin_sessions.json
+*.log
+
+# Arquivos gerados pelo npm/yarn
+package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Arquivos temporários e de build (se existirem)
+/dist
+/build
